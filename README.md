@@ -2,8 +2,9 @@
 
 **Uncover hidden patterns in India's fastest-growing quick-commerce platform**
 
-![Blinkit Dashboard Preview](https://via.placeholder.com/800x400.png?text=Blinkit+Power+BI+Dashboard+Preview)  
-*(Replace with your actual screenshot link or embed)*
+![Blinkit Dashboard Preview](<img width="2363" height="1344" alt="image" src="https://github.com/user-attachments/assets/8bcd90b5-1c22-4fe7-aaa9-ac254fa9ea56" />
+)  
+
 
 ## 🌟 Project Spotlight
 Transforming raw Blinkit sales data into **strategic intelligence** through an end-to-end Power BI solution.
@@ -63,7 +64,7 @@ Deliver a **single-pane-of-glass** view to answer critical questions:
 - **Power Query** – Data cleaning, null handling, type consistency, calculated columns
 - **Interactive Features** – Slicers (Outlet Type, Tier, Fat Content, Item Type), cross-filtering, tooltips
 
-## 💡 Business Insights (Update with Your Actual Findings)
+## 💡 Business Insights 
 
 - **Low Fat** products often dominate revenue — health-conscious buyers are driving sales
 - **Tier 3** locations surprisingly outperform Tier 1 & 2 in total revenue
@@ -80,13 +81,27 @@ Deliver a **single-pane-of-glass** view to answer critical questions:
 - Data Modeling & Relationship Management
 - UI/UX Dashboard Design Principles
 
-## 🚀 Next Steps / Potential Enhancements
+## 📊 Business Impact
 
-- Add time-series forecasting
-- Incorporate delivery time / order volume metrics
-- Build mobile-optimized layout
-- Integrate real-time data refresh
-- Export to paginated reports for executives
+This analysis helps stakeholders:
+
+Identify high-performing product categories
+
+Optimize outlet performance strategies
+
+Improve inventory planning
+
+Enhance customer satisfaction tracking
+
+Support data-driven decision making
+
+##🚀 How to Use
+
+Download the .pbix file
+
+Open it in Power BI Desktop
+
+Explore the interactive dashboard
 
 Feel free to ⭐ the repo if this helped, fork it, or reach out with questions!
 
