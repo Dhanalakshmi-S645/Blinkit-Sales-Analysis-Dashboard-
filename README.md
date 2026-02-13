@@ -2,8 +2,7 @@
 
 **Uncover hidden patterns in India's fastest-growing quick-commerce platform**
 
-![Blinkit Dashboard Preview](<img width="2363" height="1344" alt="image" src="https://github.com/user-attachments/assets/8bcd90b5-1c22-4fe7-aaa9-ac254fa9ea56" />
-)  
+![Blinkit Dashboard Preview]https://github.com/Dhanalakshmi-S645/Blinkit-Sales-Analysis-Dashboard-/blob/main/Screenshot%202026-02-13%20184950.png
 
 
 ## 🌟 Project Spotlight
